@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Detail Hostibg File
-hosting="https://raw.githubusercontent.com/UmVyZWNoYW4wMgo/QXV0b3NjcmlwdAo-/main/website"
+hosting="https://raw.githubusercontent.com/nsstore14/vpn/main/website"
 
 # Menginstall Package
 apt install apache2 php libapache2-mod-php -y
